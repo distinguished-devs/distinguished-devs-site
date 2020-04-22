@@ -68,7 +68,7 @@ const FeaturesTiles = ({
                     Commmon factors
                     </h4>
                   <p className="m-0 text-sm">
-                    What do qualities do elite software engineers share? 
+                    What qualities do elite software engineers share? 
                     </p>
                 </div>
               </div>
